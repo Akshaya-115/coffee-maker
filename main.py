@@ -83,6 +83,7 @@ while continue_:
 
 
 # 1 quarter, 2 dimes, 1 nickel, 2 pennies = 0.25 + 0.1 x 2 + 0.05 + 0.01 x 2 = $0.52
+#this is the new comment
 
 continue_ = True
 while continue_:
